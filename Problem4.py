@@ -20,3 +20,10 @@ print(Datacsv)
 
 # Delete the first column which is "Id"
 Datacsv = Datacsv.drop("Id", 1)
+
+# Convert Species to numeric id
+Datacsv["Species"] = Datacsv["Species"].map({
+    "Iris-setosa": 0,
+    "Iris-versicolor": 1,
+    "Iris-virginica": 2
+}).astype(int)
