@@ -12,6 +12,17 @@ Keras is an open source neural network library written in Python. It is capable 
 
 In 2017, Google's TensorFlow team decided to support Keras in TensorFlow's core library. Chollet explained that Keras was conceived to be an interface rather than an end-to-end machine-learning framework. It presents a higher-level, more intuitive set of abstractions that make it easy to configure neural networks regardless of the backend scientific computing library. Microsoft has been working to add a CNTK backend to Keras as well and the functionality is currently in beta release with CNTK v2.0 
 
+## What is Jupyter ?
+<a href = "http://jupyter.org/"><img src="https://cdn-images-1.medium.com/max/800/1*j4ji49J3lTTNUvSsNsg6LA.png"></a>
+<br>
+The Jupyter Notebook<br>
+The notebook extends the console-based approach to interactive computing in a qualitatively new direction, providing a web-based application suitable for capturing the whole computation process: developing, documenting, and executing code, as well as communicating the results. The Jupyter notebook combines two components:
+
+A web application: a browser-based tool for interactive authoring of documents which combine explanatory text, mathematics, computations and their rich media output.
+
+Notebook documents: a representation of all content visible in the web application, including inputs and outputs of the computations, explanatory text, mathematics, images, and rich media representations of objects.
+
+
 # Note I shall be using Keras for this problem sheet instead of Tensorflow
 
 ## Problem set: Tensorflow
