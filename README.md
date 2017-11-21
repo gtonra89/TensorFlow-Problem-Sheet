@@ -6,7 +6,7 @@ TensorFlow is an open-source software library for dataflow programming across a 
 
 TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache 2.0 open source license. More deatils can be found out about tensorflow by clicking on the <b>Tensorflow Logo</b> above 
 
-## About Keras
+## About Keras<br>
 <a href="https://keras.io/"><img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_Logo.jpg"></a><br>
 Keras is an open source neural network library written in Python. It is capable of running on top of MXNet, Deeplearning4j, Tensorflow, CNTK or Theano. Designed to enable fast experimentation with deep neural networks, it focuses on being minimal, modular and extensible. It was developed as part of the research effort of project ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System), and its primary author and maintainer is François Chollet, a Google engineer.
 
