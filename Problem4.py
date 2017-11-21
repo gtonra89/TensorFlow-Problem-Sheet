@@ -27,3 +27,6 @@ Datacsv["Species"] = Datacsv["Species"].map({
     "Iris-versicolor": 1,
     "Iris-virginica": 2
 }).astype(int)
+
+# Converts data to anp matrix
+dataset = Datacsv.as_matrix()
