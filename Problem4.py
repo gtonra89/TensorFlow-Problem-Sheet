@@ -72,7 +72,7 @@ model.fit(
     batch_size=10
 )
 
-# 7. Evaluate Model
+# Evaluate Model
 
 scores = model.evaluate(xTest, yTest)
 print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
