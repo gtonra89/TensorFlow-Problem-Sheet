@@ -10,3 +10,9 @@ import sys
 
 # Fix random seed for reproducibility
 np.random.seed(7)
+
+# 1. Load Iris species dataset
+# Split into input (X) and output (Y) variables
+Datacsv = pd.read_csv("Iris.csv")
+
+print(Datacsv)
