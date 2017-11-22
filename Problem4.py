@@ -35,8 +35,8 @@ dataset = Datacsv.as_matrix()
 
 # Preparing Cross Validation
 
-trainingSet = np.random.randint(dataset.shape[0], size=150)
-testSet = np.random.randint(dataset.shape[0], size=100)
+trainingSet = np.random.randint(dataset.shape[0], size=100)
+testSet = np.random.randint(dataset.shape[0], size=45)
 
 xTrain = dataset[trainingSet, :4]
 yTrain = to_categorical(dataset[trainingSet, 4], num_classes=3)
