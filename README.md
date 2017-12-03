@@ -22,6 +22,14 @@ A web application: a browser-based tool for interactive authoring of documents w
 
 Notebook documents: a representation of all content visible in the web application, including inputs and outputs of the computations, explanatory text, mathematics, images, and rich media representations of objects.
 
+## How to Run
+Download the zip directory to your local computer and extract the files<br>
+Open your Command Prompt of your Operating System<br>
+Cd or change directory to where the folder is extracted too<br>
+Then type the following command<br>
+```python Problem4.py```<br>
+The system will run in the cmd and give the result<br>
+You can also click onto the <a href ="https://github.com/gtonra89/TensorFlow-Problem-Sheet/blob/master/Problem4.ipynb"> Problem4.ipynb</a> file in the repositry and its will give you a full rundown of each piece of the problem sheet 
 
 # Note I shall be using Keras for this problem sheet instead of Tensorflow
 
